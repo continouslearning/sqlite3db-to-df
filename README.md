@@ -1,7 +1,5 @@
 # Create & Access SQLite Database Using Python
 
-![cognitiveclass.ai logo](https://cognitiveclass.ai/images/logo.png)
-
 **Estimated Time Needed:** 15 minutes
 
 ---
